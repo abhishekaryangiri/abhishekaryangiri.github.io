@@ -52,22 +52,8 @@
     --second-bg-color: #000;
     --text-color: #FFF;
     --main-color: #4bf4db;
-    /* --main-color: #a54bff; */
 }
-/* :root { */
-    /* --bg-color: #181824;    Dark background color */
-    /* --second-bg-color: #150814;/ Secondary dark background color */
-    /* --text-color: #B97CF7;  Purple text color similar to ChatGPT */
-    /* --main-color: #EE92D7;  Main accent color */
-/* } */
 
-/* :root{
-    --bg-color: #081b29;
-    --second-bg-color: #112e42;
-    --text-color: #ededed;
-    --main-color: #00abf0;
-
-} */
 
 html{
      font-size: 62.5%;
