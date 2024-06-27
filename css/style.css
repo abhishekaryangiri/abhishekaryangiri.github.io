@@ -346,7 +346,7 @@ section{
 }
 .btn-box .btn:hover{
     color: var(--main-color);
-    /* cursor: url('click.png')10 12,move; */
+    cursor: url('click.png')10 12,move;
 }
 .btn-box .btn:nth-child(2){
     background: transparent;
