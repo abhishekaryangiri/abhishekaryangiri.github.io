@@ -68,7 +68,7 @@ body{
     cursor: url('cursorr.png')7 8,move;
 }
 a,input{
-    cursor: url('images/click.png')7 8,move;
+    cursor: url('click.png')7 8,move;
 }
 #preloader{
     background-color:white;
@@ -152,7 +152,7 @@ noscript{
     opacity: 1;
     z-index: 3;
     transition-duration: .3s;
-    cursor: url('images/click.png')10 12,move;
+    cursor: url('click.png')10 12,move;
   }
   
   .mute-speaker svg {
@@ -215,7 +215,7 @@ noscript{
     font-weight: 500;
     margin-left:3.5rem ;
     transition: .3s;
-    cursor: url('images/click.png')10 12,move;
+    cursor: url('click.png')10 12,move;
 
 
 }
@@ -228,7 +228,7 @@ noscript{
     position: relative;
     font-size: 3.6rem;
     color: var(--text-color);
-    cursor: url('images/click.png')10 12,move;
+    cursor: url('click.png')10 12,move;
     display:none;
 }
 
@@ -321,7 +321,7 @@ section{
     align-items: center;
     gap: 10px; 
     height: 5rem;
-    cursor: url('images/click.png')10 12,move;
+    cursor: url('click.png')10 12,move;
 }
 
 .btn-box .btn{
@@ -341,12 +341,12 @@ section{
     z-index: 1;
     overflow:hidden ;
     transition: .5s;
-    /* cursor: url('click.png')10 12,move; */
+    cursor: url('click.png')10 12,move;
 
 }
 .btn-box .btn:hover{
     color: var(--main-color);
-    cursor: url('images/click.png')10 12,move;
+    cursor: url('click.png')10 12,move;
 }
 .btn-box .btn:nth-child(2){
     background: transparent;
